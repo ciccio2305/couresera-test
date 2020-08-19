@@ -53,7 +53,7 @@ div.text{
   width: 100%;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   .col-lg-4{
     float: left;
     border: 2px solid #EE03AE;
@@ -65,7 +65,7 @@ div.text{
   }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .col-md-6sx {
     float: left;
     border: 2px solid #EE03AE;
@@ -97,7 +97,7 @@ div.text{
   
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
   .col-md-6sx {
     border: 2px solid #EE03AE;
     background-color: #000C37;
